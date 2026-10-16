@@ -1,21 +1,27 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+layout: page
+title: Sobre mí
+icon: fas fa-user-secret
 order: 4
 ---
-<h1> ¡Hola a todos, < Desarrolladores/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+
+<p align="center">
+    <img width="200" src="https://github.com/gatodev-cpu.png" alt="Avatar de Johan">
+</p>
+
+<h1> ¡Hola a todos, < Desarrolladores/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mano saludando"> </h1>
 <p align='center'>
 </p>
 
 [![Visitas al perfil](https://visitor-badge.glitch.me/badge?page_id=gatodev-cpu.gatodev-cpu)](https://github.com/gatodev-cpu)
 [![Github](https://img.shields.io/github/followers/gatodev-cpu?label=Seguir&style=social)](https://github.com/gatodev-cpu)
 
-<div size='20px'> ¡Hola! Mi nombre es Johan. Gracias por tomarte el tiempo de visitar mi perfil de GitHub :smile: 
+<div size='20px'> ¡Hola! Mi nombre es Johan. Gracias por tomarte el tiempo de visitar mi espacio técnico :smile: 
 </div>
 
-<h2> Sobre mí <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"></h2>
+<h2> Sobre mí <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px" alt="GIF animado"></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Cabecera de Git" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Actualmente estoy trabajando en: Mis estudios y laboratorios de ciberseguridad.
   
@@ -27,12 +33,12 @@ order: 4
   
 - ⚡ Dato curioso: Me apasiona el hacking ético y resolver retos técnicos.
 
-<h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
-<a href="https://github.com/gatodev-cpu?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<h2> Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="GIF de habilidades"> </h2>
+<a href="https://github.com/gatodev-cpu?tab=repositories&q=&type=&language=python&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Icono de Python"> </a>
 
 
-<h2> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href='https://www.github.com/gatodev-cpu'> <img width="32px" align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a> 
+<h2> Conecta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" alt="Animación de apretón de manos"> </h2>
+<a href='https://www.github.com/gatodev-cpu'> <img width="32px" align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="Icono de GitHub"></a> 
   
 <br>
 <br>
