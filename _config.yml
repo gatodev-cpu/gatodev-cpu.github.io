@@ -43,7 +43,7 @@ analytics:
     id: G-ZQ3STV479N
 
 # Avatar de la barra lateral (Puedes subir tu foto o avatar a la carpeta assets/img/)
-avatar: "/assets/img/avatar.png"
+avatar: "https://avatars.githubusercontent.com/u/243021069?v=4"
 
 # Interruptor global para la tabla de contenidos (TOC)
 toc: true
